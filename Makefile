@@ -331,7 +331,7 @@ LN=ln
 
 #########################################
 # Use this for Linux
-CC=gcc
+CC=clang
 # Only use -Wall for testing, since it produces warnings that are of no
 # real effect on the reliability of the program, but may concern some
 # people who don't understand them.
